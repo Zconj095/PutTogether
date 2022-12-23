@@ -1,0 +1,1 @@
+GAP = "OPENING OR BREAK" 

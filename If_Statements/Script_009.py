@@ -1,0 +1,3 @@
+from Language_Early_Stage import *
+IF,FILE,HAS,AN,EXTENSION
+THEN,ANALYZE,TYPE,FOR,FILE,EXTENSION

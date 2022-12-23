@@ -1,0 +1,1 @@
+BURST = "STRONG FORCE OF" 

@@ -1,0 +1,1 @@
+DEAD = "NOT LIVING" 

@@ -1,0 +1,1 @@
+OPENS = "REVEALS" 

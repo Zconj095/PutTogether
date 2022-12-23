@@ -1,0 +1,1 @@
+ORES = "MORE THAN ONE ORE" 

@@ -1,0 +1,1 @@
+AROUND = "ON EVERY SIDE" 

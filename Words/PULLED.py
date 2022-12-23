@@ -1,0 +1,1 @@
+PULLED = "FORCE RESIST" 

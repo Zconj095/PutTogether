@@ -1,0 +1,1 @@
+OPPOSITE = "SET ACROSS" 

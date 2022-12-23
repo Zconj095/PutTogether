@@ -1,0 +1,1 @@
+ABNORMAL = "NOT NORMAL" 

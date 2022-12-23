@@ -1,0 +1,1 @@
+GATEWAY = "AN ENTRANCE" 

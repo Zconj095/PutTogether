@@ -1,0 +1,1 @@
+HATE = "DO NOT LOVE" 

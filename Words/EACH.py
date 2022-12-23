@@ -1,0 +1,1 @@
+EACH = "TO AND OR FOR AND OR BY" 

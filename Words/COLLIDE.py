@@ -1,0 +1,1 @@
+COLLIDE = "TO BUMP ONTO" 

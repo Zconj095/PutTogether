@@ -1,0 +1,1 @@
+EXTENT = "AMOUNT OR AREA" 

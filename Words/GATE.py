@@ -1,0 +1,1 @@
+GATE = "OPENING" 

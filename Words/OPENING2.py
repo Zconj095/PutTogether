@@ -1,0 +1,1 @@
+OPENING2 = "GAP" 

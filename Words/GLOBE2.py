@@ -1,0 +1,1 @@
+GLOBE2 = "SPHERE" 

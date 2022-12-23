@@ -1,0 +1,1 @@
+SENT = "GIVE OUT VALUE" 
